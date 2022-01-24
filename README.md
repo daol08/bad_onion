@@ -2,6 +2,8 @@
 
 <h2>첫 번째 프로젝트 Pollin</h2>
 
+//열심히 하자~
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
