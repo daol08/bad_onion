@@ -1,6 +1,6 @@
 # pollin
 
-<h1>첫 번째 프로젝트 Pollin</h1>
+<h2>첫 번째 프로젝트 Pollin</h2>
 
 ## Getting Started
 
