@@ -1,6 +1,6 @@
 # pollin
 
-A new Flutter project.
+<h1>첫 번째 프로젝트 Pollin</h1>
 
 ## Getting Started
 
